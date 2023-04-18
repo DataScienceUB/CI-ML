@@ -7,7 +7,7 @@ The relationship between causality and artificial intelligence can be seen f
 + Potential Outcomes and the Fundamental Problem of Causal Inference | Slides
 + Causal Graphs | [Slides](https://github.com/DataScienceUB/CI-ML/raw/main/slides/3.CausalGraphsOpenBank.pdf)
 + Estimand-based Estimation: Metalearners | Slides
-+ Estimand-agnostic Estimation: Counterfactuals | [Slides](https://github.com/DataScienceUB/CI-ML/raw/main/slides/3.CausalGraphsOpenBank.pdf)
++ Estimand-agnostic Estimation: Counterfactuals | [Slides](https://github.com/DataScienceUB/CI-ML/raw/main/slides/5.EstimandAgnosticOpenBank.pdf)
 + Causal Machine Learning | Slides
 + Practical Causal Inference | Slides
 
