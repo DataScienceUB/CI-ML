@@ -5,7 +5,7 @@ The relationship between causality and artificial intelligence can be seen f
 ## Syllabus
 + Observational and Interventional Distributions. Causal Thinking | Slides
 + Potential Outcomes and the Fundamental Problem of Causal Inference | Slides
-+ Causal Graphs | (Slides)[https://github.com/DataScienceUB/CI-ML/raw/main/slides/3.CausalGraphsOpenBank.pdf]
++ Causal Graphs | [Slides](https://github.com/DataScienceUB/CI-ML/raw/main/slides/3.CausalGraphsOpenBank.pdf)
 + Estimand-based Estimation: Metalearners | Slides
 + Estimand-agnostic Estimation: Counterfactuals | Slides
 + Causal Machine Learning | Slides
