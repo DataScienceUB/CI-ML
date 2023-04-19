@@ -4,9 +4,9 @@ The relationship between causality and artificial intelligence can be seen f
 
 ## Syllabus
 + Observational and Interventional Distributions. Causal Thinking | [Slides](https://github.com/DataScienceUB/CI-ML/raw/main/slides/1.%20IntroCausalityOpenBank.pdf)
-+ Potential Outcomes and the Fundamental Problem of Causal Inference | [Slides](https://github.com/DataScienceUB/CI-ML/raw/main/slides/2.PotentialOutcomesOpenBank.pdf)
++ Potential Outcomes and the Fundamental Problem of Causal Inference | [Slides](https://github.com/DataScienceUB/CI-ML/raw/main/slides/2.PotentialOutcomesOpenbank.pdf)
 + Causal Graphs | [Slides](https://github.com/DataScienceUB/CI-ML/raw/main/slides/3.CausalGraphsOpenBank.pdf)
-+ Estimand-based Estimation: Metalearners | [Slides](https://github.com/DataScienceUB/CI-ML/raw/main/slides/5.EstimandBasedOpenBank.pdf)
++ Estimand-based Estimation: Metalearners | [Slides](https://github.com/DataScienceUB/CI-ML/raw/main/slides/4.EstimandBasedOpenbank.pdf)
 + Estimand-agnostic Estimation: Counterfactuals | [Slides](https://github.com/DataScienceUB/CI-ML/raw/main/slides/5.EstimandAgnosticOpenBank.pdf)
 + Causal Machine Learning (Supervised Learning) | [Slides](https://github.com/DataScienceUB/CI-ML/raw/main/slides/6.CausalML1OpenBank.pdf)
 + Causal Machine Learning (Reinforcement Learning) | Slides
