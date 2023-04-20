@@ -9,9 +9,5 @@ The relationship between causality and artificial intelligence can be seen f
 + Estimand-based Estimation: Metalearners | [Slides](https://github.com/DataScienceUB/CI-ML/raw/main/slides/4.EstimandBasedOpenbank.pdf)
 + Estimand-agnostic Estimation: Counterfactuals | [Slides](https://github.com/DataScienceUB/CI-ML/raw/main/slides/5.EstimandAgnosticOpenBank.pdf)
 + Causal Machine Learning (Supervised Learning) | [Slides](https://github.com/DataScienceUB/CI-ML/raw/main/slides/6.CausalML1OpenBank.pdf)
-+ Causal Machine Learning (Reinforcement Learning) | Slides
++ Causal Machine Learning (Reinforcement Learning) | [Slides](https://github.com/DataScienceUB/CI-ML/raw/main/slides/6.CausalML2OpenBank.pdf)
 + Practical Causal Inference | Slides
-
-## Notebooks
-+ Notebook 1
-+ Notebook 2
